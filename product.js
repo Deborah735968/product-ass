@@ -35,11 +35,6 @@ const product = [
         image:'Mock-Up cosmetic.jpg',
     },
     {
-        productName: "Mock-Up cosmetic2",
-        price: "$60",
-        image:'Mock-Up cosmetic2.jpg',
-    },
-    {
         productName: "Pink leisara bag",
         price: "$30",
         image:'Pink leisara bag.jpg',
@@ -58,7 +53,72 @@ const product = [
         productName: "Timberland",
         price: "$48",
         image:'Timberland.jpg',
-    }
+    },
+    {
+        productName: "Alex-quezada-heels",
+        price: "$25",
+        image:'Alex-quezada-heels.jpg',
+    },
+    {
+        productName: "Ameli Zurich Handbag ",
+        price: "$35",
+        image:'Ameli Zurich Handbag.jpg',
+    },
+    {
+        productName: "Arno-senoner-Pink Handbag",
+        price: "$40",
+        image:'Arno-senoner-Pink Handbag.jpg',
+    },
+    {
+        productName: "Arno-senoner-White Handbag",
+        price: "$75",
+        image:'Arno-senoner-White Handbag.jpg',
+    },
+    {
+        productName: "Cosmetic Mockup",
+        price: "$65",
+        image:'Cosmetic Mockup.jpg',
+    },
+    {
+        productName: "Emily heels",
+        price: "$55",
+        image:'Emily heels.jpg',
+    },
+    {
+        productName: "Fashion Handbag",
+        price: "$66",
+        image:'Fashion Handbag.jpg',
+    },
+    {
+        productName: "GG Handbag",
+        price: "$46",
+        image:'GG Handbag.jpg',
+    },
+    {
+        productName: "Jimmy Choo Heels",
+        price: "$36",
+        image:'Jimmy Choo Heels.jpg',
+    },
+    {
+        productName: "Umbro Kaixi Brown handbag",
+        price: "$49",
+        image:'Umbro Kaixi Brown handbag.jpg',
+    },
+    {
+        productName: "Umbro Kaixi pink handbag",
+        price: "$45",
+        image:'Umbro Kaixi pink handbag.jpg',
+    },
+    {
+        productName: "Vitamin-C",
+        price: "$85",
+        image:'Vitamin-C.jpg',
+    },
+    {
+        productName: "Zara Handbag",
+        price: "$45",
+        image:'Zara Handbag.jpg',
+    },
     
 ];
 
